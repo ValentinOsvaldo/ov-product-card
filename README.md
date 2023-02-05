@@ -4,7 +4,7 @@ I create my own package on NPM
 
 ## Example
 
-```tsx
+```jsx
 <ProductCard
   key={products[0].id}
   product={products[0]}
